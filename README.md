@@ -14,10 +14,10 @@ comments and explanations.
 
 | Field | Details |
 |---|---|
-| **Name** | Brahmanand Nagappa Bagewadi |
-| **Roll No.** | 353 |
+| **Name** | Naveen R Bhandi |
+| **Roll No.** | 361 |
 | **Division** | C |
-| **SRN** | 01FE23BEC147 |
+| **SRN** | 01FE23BEC155 |
 | **Semester** | 7th Semester |
 | **Branch** | Electronics and Communication Engineering |
 | **University** | KLE Technological University |
@@ -187,7 +187,7 @@ improve readability.
 
 ## Author
 
-**Brahmanand Nagappa Bagewadi**
+**Naveen R Bhandi**
 
 Electronics and Communication Engineering  
 KLE Technological University
